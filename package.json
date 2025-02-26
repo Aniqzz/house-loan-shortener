@@ -1,24 +1,6 @@
 {
-  "name": "house-loan-shortener",
-  "version": "1.0.0",
-  "description": "",
-  "homepage": "https://github.com/Aniqzz/house-loan-shortener#readme",
-  "bugs": {
-    "url": "https://github.com/Aniqzz/house-loan-shortener/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Aniqzz/house-loan-shortener.git"
-  },
-  "license": "ISC",
-  "author": "",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "dependencies": {
-    "@tailwindcss/cli": "^4.0.8",
-    "tailwindcss": "^4.0.8"
+    "@tailwindcss/cli": "^4.0.9",
+    "tailwindcss": "^4.0.9"
   }
 }
